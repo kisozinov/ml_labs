@@ -1,0 +1,4 @@
+/data
+chkpt*
+/MNIST
+conv_chkpt*
